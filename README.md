@@ -1,9 +1,6 @@
 # startup-it-admin-kit
 Startup IT Admin Kit
-Name:
-Startup IT Admin Kit
 
-Tagline:
 Practical IT templates for small teams without a full IT department.
 
 Description:
